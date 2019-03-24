@@ -73,24 +73,24 @@ void Dane::odczytfloat(string& a)
 			string liczba;
 			for (int i = 0; i < 16; i++)
 			{
-				liczba += a[a.length()-18+i];
+				liczba += a[a.length() - 18 + i];
 			}
 			while (!czyjestliczba(liczba[0]))
 			{
 				liczba.erase(liczba.begin());
 			}
-			while (!czyjestliczba(liczba[liczba.length()-1]))
+			while (!czyjestliczba(liczba[liczba.length() - 1]))
 			{
-				liczba.erase(liczba.end()-1);
+				liczba.erase(liczba.end() - 1);
 			}
 			executiontime[licznikexecutiontime] = stod(liczba);//atof(liczba.c_str());//stod(liczba);
 			//cout << "string wynosi: " << liczba << endl;
-			
+
 			cout << "liczba wynosi: " << executiontime[licznikexecutiontime] << endl;
 			licznikexecutiontime++;
 		}
 	}
-	
+
 }
 
 void Dane::odczytvertices(string &a)
@@ -108,7 +108,7 @@ void Dane::odczytvertices(string &a)
 			string liczba;
 			for (int i = 0; i < 10; i++)
 			{
-				liczba += a[a.length()-10+i];
+				liczba += a[a.length() - 10 + i];
 			}
 			while (!czyjestliczba(liczba[0]))
 			{
