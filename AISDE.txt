@@ -1,0 +1,1031 @@
+
+odzyskaj - algorythm execution time, number of: vertices, branches, multiplications, divisions, additions
+
+OUTPUT: ALGORITHM 1
+
+LAYOUT: COR
+10, 10
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          105
+number of branches:          202
+execute alg: 1
+Algorythm execution time: 0.000258 sec
+number of multiplications: 4621
+number of divisions:       2453
+number of additions:       5689
+number of transformations:
+star to matrix:   542
+triangle to star: 587
+series:           150
+parallels:        51
+max number of branches: 201
+max vertex grad: 9
+max vertex grad in star: 3
+number of squares: 2.52032
+
+20,20
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          360
+number of branches:          702
+execute alg: 1
+Algorythm execution time: 0.001285 sec
+number of multiplications: 30497
+number of divisions:       15664
+number of additions:       36065
+number of transformations:
+star to matrix:   3680
+triangle to star: 3826
+series:           506
+parallels:        258
+max number of branches: 701
+max vertex grad: 13
+max vertex grad in star: 6
+number of squares: 2.54330
+
+
+25, 25
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          2025
+number of branches:          4002
+execute alg: 1
+Algorythm execution time: 0.013994 sec
+number of multiplications: 330897
+number of divisions:       166209
+number of additions:       381844
+number of transformations:
+star to matrix:   40372
+triangle to star: 41046
+series:           2699
+parallels:        3604
+max number of branches: 4001
+max vertex grad: 29
+max vertex grad in star: 16
+number of squares: 2.55375
+
+30,30
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          3069
+number of branches:          6078
+execute alg: 1
+Algorythm execution time: 0.026745 sec
+number of multiplications: 621097
+number of divisions:       315017
+number of additions:       715339
+number of transformations:
+star to matrix:   76520
+triangle to star: 77987
+series:           4536
+parallels:        1541
+max number of branches: 6077
+max vertex grad: 35
+max vertex grad in star: 3
+number of squares: 2.55496
+
+40,40
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          1320
+number of branches:          2602
+execute alg: 1
+Algorythm execution time: 0.007182 sec
+number of multiplications: 171885
+number of divisions:       86972
+number of additions:       199731
+number of transformations:
+star to matrix:   21183
+triangle to star: 21413
+series:           1550
+parallels:        1156
+max number of branches: 2601
+max vertex grad: 15
+max vertex grad in star: 7
+number of squares: 2.55243
+
+50,50
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          2025
+number of branches:          4002
+execute alg: 1
+Algorythm execution time: 0.019410 sec
+number of multiplications: 421890
+number of divisions:       202149
+number of additions:       479687
+number of transformations:
+star to matrix:   49992
+triangle to star: 50031
+series:           2064
+parallels:        17812
+max number of branches: 4001
+max vertex grad: 44
+max vertex grad in star: 29
+number of squares: 2.55399
+
+60,60
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          11529
+number of branches:          22938
+execute alg: 1
+Algorythm execution time: 0.484435 sec
+number of multiplications: 4974536
+number of divisions:       2149777
+number of additions:       5531907
+number of transformations:
+star to matrix:   536059
+triangle to star: 534562
+series:           10032
+parallels:        628944
+max number of branches: 22937
+max vertex grad: 129
+max vertex grad in star: 85
+number of squares: 2.55709
+
+65,65
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          3465
+number of branches:          6866
+execute alg: 1
+Algorythm execution time: 0.070183 sec
+number of multiplications: 960035
+number of divisions:       412333
+number of additions:       1069949
+number of transformations:
+star to matrix:   102357
+triangle to star: 102217
+series:           3325
+parallels:        124024
+max number of branches: 6865
+max vertex grad: 78
+max vertex grad in star: 56
+number of squares: 2.55538
+
+70,70
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          15549
+number of branches:          30958
+execute alg: 1
+Algorythm execution time: 0.508094 sec
+number of multiplications: 7580599
+number of divisions:       3580001
+number of additions:       8528648
+number of transformations:
+star to matrix:   887329
+triangle to star: 891113
+series:           19333
+parallels:        416274
+max number of branches: 30957
+max vertex grad: 111
+max vertex grad in star: 78
+number of squares: 2.55736
+
+
+75,75
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          4560
+number of branches:          9046
+execute alg: 1
+Algorythm execution time: 0.049769 sec
+number of multiplications: 1103941
+number of divisions:       554104
+number of additions:       1263891
+number of transformations:
+star to matrix:   136275
+triangle to star: 137386
+series:           5671
+parallels:        6783
+max number of branches: 9045
+max vertex grad: 25
+max vertex grad in star: 16
+number of squares: 2.55592
+
+80,80
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          5040
+number of branches:          10002
+execute alg: 1
+Algorythm execution time: 0.066668 sec
+number of multiplications: 1423222
+number of divisions:       696160
+number of additions:       1617032
+number of transformations:
+star to matrix:   172329
+triangle to star: 172780
+series:           5491
+parallels:        34452
+max number of branches: 10001
+max vertex grad: 44
+max vertex grad in star: 27
+number of squares: 2.55609
+
+85,85
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          5805
+number of branches:          11526
+execute alg: 1
+Algorythm execution time: 0.078954 sec
+number of multiplications: 1678122
+number of divisions:       825305
+number of additions:       1908798
+number of transformations:
+star to matrix:   203411
+triangle to star: 204875
+series:           7269
+parallels:        35599
+max number of branches: 11525
+max vertex grad: 47
+max vertex grad in star: 30
+number of squares: 2.55631
+
+90,90
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          25389
+number of branches:          50598
+execute alg: 1
+Algorythm execution time: 5.253888 sec
+number of multiplications: 18074437
+number of divisions:       6642121
+number of additions:       19703956
+number of transformations:
+star to matrix:   1660328
+triangle to star: 1654183
+series:           19244
+parallels:        4534703
+max number of branches: 50597
+max vertex grad: 261
+max vertex grad in star: 157
+number of squares: 2.55768
+
+100,100
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          7800
+number of branches:          15502
+execute alg: 1
+Algorythm execution time: 0.212174 sec
+number of multiplications: 2806059
+number of divisions:       1242096
+number of additions:       3132367
+number of transformations:
+star to matrix:   310176
+triangle to star: 308574
+series:           6198
+parallels:        295032
+max number of branches: 15501
+max vertex grad: 104
+max vertex grad in star: 70
+number of squares: 2.55671
+
+100,100
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          7800
+number of branches:          15502
+execute alg: 1
+Algorythm execution time: 0.203822 sec
+number of multiplications: 2806059
+number of divisions:       1242096
+number of additions:       3132367
+number of transformations:
+star to matrix:   310176
+triangle to star: 308574
+series:           6198
+parallels:        295032
+max number of branches: 15501
+max vertex grad: 104
+max vertex grad in star: 70
+number of squares: 2.55671
+
+110,110
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          37629
+number of branches:          75038
+execute alg: 1
+Algorythm execution time: 1.963141 sec
+number of multiplications: 22832179
+number of divisions:       11377393
+number of additions:       25846115
+number of transformations:
+star to matrix:   2833332
+triangle to star: 2834941
+series:           39238
+parallels:        139733
+max number of branches: 75037
+max vertex grad: 107
+max vertex grad in star: 45
+number of squares: 2.55788
+
+120,120
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          44649
+number of branches:          89058
+execute alg: 1
+Algorythm execution time: 5.839664 sec
+number of multiplications: 38585491
+number of divisions:       17536181
+number of additions:       43056947
+number of transformations:
+star to matrix:   4373817
+triangle to star: 4372883
+series:           43715
+parallels:        3356262
+max number of branches: 89057
+max vertex grad: 199
+max vertex grad in star: 124
+number of squares: 2.55795
+
+125,125
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          47625
+number of branches:          95002
+execute alg: 1
+Algorythm execution time: 4.887907 sec
+number of multiplications: 39677036
+number of divisions:       19213917
+number of additions:       44649563
+number of transformations:
+star to matrix:   4786515
+triangle to star: 4791573
+series:           52683
+parallels:        1239417
+max number of branches: 95001
+max vertex grad: 149
+max vertex grad in star: 88
+number of squares: 2.55797
+
+130,130
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          52269
+number of branches:          104278
+execute alg: 1
+Algorythm execution time: 31.245760 sec
+number of multiplications: 56318146
+number of divisions:       20071633
+number of additions:       61249521
+number of transformations:
+star to matrix:   5013410
+triangle to star: 5004841
+series:           43700
+parallels:        15605680
+max number of branches: 104277
+max vertex grad: 429
+max vertex grad in star: 240
+number of squares: 2.55801
+
+140,140
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          60489
+number of branches:          120698
+execute alg: 1
+Algorythm execution time: 8.219929 sec
+number of multiplications: 63278268
+number of divisions:       30138097
+number of additions:       70987544
+number of transformations:
+star to matrix:   7515434
+triangle to star: 7519402
+series:           64457
+parallels:        2906671
+max number of branches: 120697
+max vertex grad: 189
+max vertex grad in star: 111
+number of squares: 2.55805
+
+150,150
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          69309
+number of branches:          138318
+execute alg: 1
+Algorythm execution time: 12.867115 sec
+number of multiplications: 73729618
+number of divisions:       34225433
+number of additions:       82446481
+number of transformations:
+star to matrix:   8534061
+triangle to star: 8539031
+series:           74279
+parallels:        5090047
+max number of branches: 138317
+max vertex grad: 242
+max vertex grad in star: 158
+number of squares: 2.55810
+
+160,160
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          19680
+number of branches:          39202
+execute alg: 1
+Algorythm execution time: 0.726647 sec
+number of multiplications: 10823075
+number of divisions:       5104384
+number of additions:       12156772
+number of transformations:
+star to matrix:   1270947
+triangle to star: 1271176
+series:           19909
+parallels:        584857
+max number of branches: 39201
+max vertex grad: 112
+max vertex grad in star: 69
+number of squares: 2.55755
+
+170,170
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          88749
+number of branches:          177158
+execute alg: 1
+Algorythm execution time: 15.054235 sec
+number of multiplications: 92687416
+number of divisions:       44585233
+number of additions:       104132710
+number of transformations:
+star to matrix:   11117602
+triangle to star: 11124121
+series:           95268
+parallels:        3461636
+max number of branches: 177157
+max vertex grad: 222
+max vertex grad in star: 127
+number of squares: 2.55816
+
+175,175
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          23760
+number of branches:          47346
+execute alg: 1
+Algorythm execution time: 4.810467 sec
+number of multiplications: 15077265
+number of divisions:       5834924
+number of additions:       16535961
+number of transformations:
+star to matrix:   1455560
+triangle to star: 1452791
+series:           20991
+parallels:        3229369
+max number of branches: 47345
+max vertex grad: 226
+max vertex grad in star: 154
+number of squares: 2.55766
+
+180,180
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          99369
+number of branches:          198378
+execute alg: 1
+Algorythm execution time: 76.482277 sec
+number of multiplications: 132543811
+number of divisions:       50612389
+number of additions:       145077805
+number of transformations:
+star to matrix:   12643122
+triangle to star: 12628255
+series:           84502
+parallels:        30326845
+max number of branches: 198377
+max vertex grad: 471
+max vertex grad in star: 298
+number of squares: 2.55819
+
+190,190
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          110589
+number of branches:          220798
+execute alg: 1
+Algorythm execution time: 143.281982 sec
+number of multiplications: 171102641
+number of divisions:       61742005
+number of additions:       186312621
+number of transformations:
+star to matrix:   15427693
+triangle to star: 15407854
+series:           90750
+parallels:        46324825
+max number of branches: 220797
+max vertex grad: 510
+max vertex grad in star: 389
+number of squares: 2.55821
+
+200, 200
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          30600
+number of branches:          61002
+execute alg: 1
+Algorythm execution time: 5.048341 sec
+number of multiplications: 23438257
+number of divisions:       9689628
+number of additions:       25880116
+number of transformations:
+star to matrix:   2420865
+triangle to star: 2414757
+series:           24492
+parallels:        3865696
+max number of branches: 61001
+max vertex grad: 227
+max vertex grad in star: 163
+number of squares: 2.55780
+
+
+LAYOUT: SQR
+
+10,10
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          99
+number of branches:          200
+execute alg: 1
+Algorythm execution time: 0.000160 sec
+number of multiplications: 2903
+number of divisions:       1487
+number of additions:       3703
+number of transformations:
+star to matrix:   354
+triangle to star: 347
+series:           92
+parallels:        107
+max number of branches: 200
+max vertex grad: 5
+max vertex grad in star: 3
+number of squares: 1.00000
+
+15,15
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          255
+number of branches:          512
+execute alg: 1
+Algorythm execution time: 0.000545 sec
+number of multiplications: 12515
+number of divisions:       6255
+number of additions:       15166
+number of transformations:
+star to matrix:   1565
+triangle to star: 1500
+series:           190
+parallels:        321
+max number of branches: 512
+max vertex grad: 6
+max vertex grad in star: 3
+number of squares: 1.00000
+
+20,20
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          399
+number of branches:          800
+execute alg: 1
+Algorythm execution time: 0.001014 sec
+number of multiplications: 24539
+number of divisions:       12283
+number of additions:       29337
+number of transformations:
+star to matrix:   3064
+triangle to star: 2971
+series:           306
+parallels:        493
+max number of branches: 800
+max vertex grad: 6
+max vertex grad in star: 3
+number of squares: 1.00000
+
+25,25
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          624
+number of branches:          1250
+execute alg: 1
+Algorythm execution time: 0.002137 sec
+number of multiplications: 50132
+number of divisions:       25132
+number of additions:       59161
+number of transformations:
+star to matrix:   6250
+triangle to star: 6127
+series:           501
+parallels:        748
+max number of branches: 1250
+max vertex grad: 6
+max vertex grad in star: 3
+number of squares: 1.00000
+
+30,30
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          960
+number of branches:          1922
+execute alg: 1
+Algorythm execution time: 0.004284 sec
+number of multiplications: 92456
+number of divisions:       46012
+number of additions:       108052
+number of transformations:
+star to matrix:   11611
+triangle to star: 11263
+series:           612
+parallels:        1309
+max number of branches: 1922
+max vertex grad: 6
+max vertex grad in star: 3
+number of squares: 1.00000
+
+40,40
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          1599
+number of branches:          3200
+execute alg: 1
+Algorythm execution time: 0.009976 sec
+number of multiplications: 197199
+number of divisions:       98111
+number of additions:       228523
+number of transformations:
+star to matrix:   24772
+triangle to star: 24128
+series:           955
+parallels:        2244
+max number of branches: 3200
+max vertex grad: 6
+max vertex grad in star: 3
+number of squares: 1.00000
+
+50,50
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          2499
+number of branches:          5000
+execute alg: 1
+Algorythm execution time: 0.023115 sec
+number of multiplications: 386207
+number of divisions:       192279
+number of additions:       444915
+number of transformations:
+star to matrix:   48482
+triangle to star: 47445
+series:           1462
+parallels:        3537
+max number of branches: 5000
+max vertex grad: 6
+max vertex grad in star: 3
+number of squares: 1.00000
+
+60,60
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          3720
+number of branches:          7442
+execute alg: 1
+Algorythm execution time: 0.050880 sec
+number of multiplications: 704128
+number of divisions:       350656
+number of additions:       807589
+number of transformations:
+star to matrix:   88368
+triangle to star: 86734
+series:           2086
+parallels:        5355
+max number of branches: 7442
+max vertex grad: 6
+max vertex grad in star: 3
+number of squares: 1.00000
+
+65,65
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          4355
+number of branches:          8712
+execute alg: 1
+Algorythm execution time: 0.069526 sec
+number of multiplications: 890791
+number of divisions:       443779
+number of additions:       1020266
+number of transformations:
+star to matrix:   111753
+triangle to star: 109856
+series:           2458
+parallels:        6253
+max number of branches: 8712
+max vertex grad: 6
+max vertex grad in star: 3
+number of squares: 1.00000
+
+70,70
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          5040
+number of branches:          10082
+execute alg: 1
+Algorythm execution time: 0.089899 sec
+number of multiplications: 1107976
+number of divisions:       552028
+number of additions:       1267404
+number of transformations:
+star to matrix:   138987
+triangle to star: 136747
+series:           2800
+parallels:        7281
+max number of branches: 10082
+max vertex grad: 6
+max vertex grad in star: 3
+number of squares: 1.00000
+
+80,80
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          6399
+number of branches:          12800
+execute alg: 1
+Algorythm execution time: 0.142952 sec
+number of multiplications: 1584411
+number of divisions:       789675
+number of additions:       1809045
+number of transformations:
+star to matrix:   198684
+triangle to star: 195819
+series:           3534
+parallels:        9265
+max number of branches: 12800
+max vertex grad: 6
+max vertex grad in star: 3
+number of squares: 1.00000
+
+85,85
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          7395
+number of branches:          14792
+execute alg: 1
+Algorythm execution time: 0.205271 sec
+number of multiplications: 1967671
+number of divisions:       981195
+number of additions:       2244588
+number of transformations:
+star to matrix:   246619
+triangle to star: 243450
+series:           4226
+parallels:        10565
+max number of branches: 14792
+max vertex grad: 6
+max vertex grad in star: 3
+number of squares: 1.00000
+
+90,90
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          8280
+number of branches:          16562
+execute alg: 1
+Algorythm execution time: 0.264747 sec
+number of multiplications: 2337408
+number of divisions:       1165152
+number of additions:       2663821
+number of transformations:
+star to matrix:   293064
+triangle to star: 289218
+series:           4434
+parallels:        12127
+max number of branches: 16562
+max vertex grad: 6
+max vertex grad in star: 3
+number of squares: 1.00000
+
+100,100
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          9999
+number of branches:          20000
+execute alg: 1
+Algorythm execution time: 0.368710 sec
+number of multiplications: 3093087
+number of divisions:       1542263
+number of additions:       3521113
+number of transformations:
+star to matrix:   387706
+triangle to star: 383066
+series:           5359
+parallels:        14640
+max number of branches: 20000
+max vertex grad: 6
+max vertex grad in star: 3
+number of squares: 1.00000
+
+110,110
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          12320
+number of branches:          24642
+execute alg: 1
+Algorythm execution time: 0.618607 sec
+number of multiplications: 4225620
+number of divisions:       2107420
+number of additions:       4804781
+number of transformations:
+star to matrix:   529550
+triangle to star: 523775
+series:           6545
+parallels:        18096
+max number of branches: 24642
+max vertex grad: 6
+max vertex grad in star: 3
+number of squares: 1.00000
+
+120,120
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          14640
+number of branches:          29282
+execute alg: 1
+Algorythm execution time: 0.949197 sec
+number of multiplications: 5494976
+number of divisions:       2740892
+number of additions:       6242302
+number of transformations:
+star to matrix:   688521
+triangle to star: 681563
+series:           7682
+parallels:        21599
+max number of branches: 29282
+max vertex grad: 6
+max vertex grad in star: 3
+number of squares: 1.00000
+
+
+130,130
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          17160
+number of branches:          34322
+execute alg: 1
+Algorythm execution time: 1.279552 sec
+number of multiplications: 6967880
+number of divisions:       3476388
+number of additions:       7909902
+number of transformations:
+star to matrix:   872873
+triangle to star: 864807
+series:           9094
+parallels:        25227
+max number of branches: 34322
+max vertex grad: 6
+max vertex grad in star: 3
+number of squares: 1.00000
+
+140,140
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          19880
+number of branches:          39762
+execute alg: 1
+Algorythm execution time: 1.773541 sec
+number of multiplications: 8666924
+number of divisions:       4324616
+number of additions:       9832556
+number of transformations:
+star to matrix:   1085577
+triangle to star: 1076184
+series:           10487
+parallels:        29274
+max number of branches: 39762
+max vertex grad: 6
+max vertex grad in star: 3
+number of squares: 1.00000
+
+150,150
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          22800
+number of branches:          45602
+execute alg: 1
+Algorythm execution time: 2.304464 sec
+number of multiplications: 10675336
+number of divisions:       5327016
+number of additions:       12103765
+number of transformations:
+star to matrix:   1337080
+triangle to star: 1326054
+series:           11774
+parallels:        33827
+max number of branches: 45602
+max vertex grad: 6
+max vertex grad in star: 3
+number of squares: 1.00000
+
+160,160
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          25599
+number of branches:          51200
+execute alg: 1
+Algorythm execution time: 2.956214 sec
+number of multiplications: 12678543
+number of divisions:       6327819
+number of additions:       14369332
+number of transformations:
+star to matrix:   1587681
+triangle to star: 1575555
+series:           13473
+parallels:        37726
+max number of branches: 51200
+max vertex grad: 6
+max vertex grad in star: 3
+number of squares: 1.00000
+
+170,170
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          29240
+number of branches:          58482
+execute alg: 1
+Algorythm execution time: 3.862611 sec
+number of multiplications: 15466500
+number of divisions:       7719788
+number of additions:       17520617
+number of transformations:
+star to matrix:   1936678
+triangle to star: 1922637
+series:           15199
+parallels:        43282
+max number of branches: 58482
+max vertex grad: 6
+max vertex grad in star: 3
+number of squares: 1.00000
+
+180,180
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          32760
+number of branches:          65522
+execute alg: 1
+Algorythm execution time: 5.143487 sec
+number of multiplications: 18384236
+number of divisions:       9176468
+number of additions:       20817229
+number of transformations:
+star to matrix:   2301942
+triangle to star: 2285927
+series:           16745
+parallels:        48776
+max number of branches: 65522
+max vertex grad: 6
+max vertex grad in star: 3
+number of squares: 1.00000
+
+190,190
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          36480
+number of branches:          72962
+execute alg: 1
+Algorythm execution time: 6.074265 sec
+number of multiplications: 21586368
+number of divisions:       10776816
+number of additions:       24435789
+number of transformations:
+star to matrix:   2702388
+triangle to star: 2685084
+series:           19176
+parallels:        53785
+max number of branches: 72962
+max vertex grad: 6
+max vertex grad in star: 3
+number of squares: 1.00000
+
+200,200
+Initial graph parameters:
+number of terminal vertices: 2
+number of vertices:          39999
+number of branches:          80000
+execute alg: 1
+Algorythm execution time: 7.696483 sec
+number of multiplications: 24781259
+number of divisions:       12372347
+number of additions:       28044405
+number of transformations:
+star to matrix:   3102228
+triangle to star: 3083087
+series:           20858
+parallels:        59141
+max number of branches: 80000
+max vertex grad: 6
+max vertex grad in star: 3
+number of squares: 1.00000
